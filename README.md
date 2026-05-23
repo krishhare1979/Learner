@@ -1,2 +1,2 @@
 # Learner
-Learning alongside a demo
+Learning alongside a video file...
