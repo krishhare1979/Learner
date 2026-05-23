@@ -1,2 +1,3 @@
 # Learner
 Learning alongside a video file...
+Why are we doing this
